@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/ashu/Downloads/jar_files (1)/awt-13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashu/Downloads/jar_files (1)/base-13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashu/Downloads/jar_files (1)/guava-14.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashu/Downloads/jar_files (1)/inputoutput-13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashu/Downloads/jar_files (1)/math-13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashu/Downloads/jar_files (1)/org.eclipse.xtext.xbase.lib-2.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashu/Downloads/jar_files (1)/references-13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashu/Downloads/jar_files (1)/util-13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashu/Downloads/jar_files (1)/vmutils-13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashu/Downloads/jar_files/swing-components-4.25.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashu/Downloads/jar_files/swingx-all-1.6.5-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashu/workspace/BloodBankManagement/User Libraries/mysql-connector-java-8.0.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashu/workspace/BloodBankManagement/User Libraries/protobuf-java-3.11.4.jar"/>
+	<classpathentry kind="lib" path="User Libraries/rs2xml.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_301"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="BloodBankManagement/src"/>
+	<classpathentry kind="lib" path="BloodBankManagement/User Libraries/mysql-connector-java-8.0.26.jar"/>
+	<classpathentry kind="lib" path="BloodBankManagement/User Libraries/protobuf-java-3.11.4.jar"/>
+	<classpathentry kind="lib" path="BloodBankManagement/User Libraries/rs2xml.jar"/>
+	<classpathentry kind="output" path="BloodBankManagement/bin"/>
+</classpath>
